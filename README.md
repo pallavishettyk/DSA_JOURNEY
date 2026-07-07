@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
