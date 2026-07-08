@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
