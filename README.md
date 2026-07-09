@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
