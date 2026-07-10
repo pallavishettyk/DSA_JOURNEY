@@ -24,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
