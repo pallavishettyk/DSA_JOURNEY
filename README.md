@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+| [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
