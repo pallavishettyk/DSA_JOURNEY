@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
