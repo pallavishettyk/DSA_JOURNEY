@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
