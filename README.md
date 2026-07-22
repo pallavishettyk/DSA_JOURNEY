@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
