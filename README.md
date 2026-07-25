@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0434-number-of-segments-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2235-add-two-integers) |
 ## Recursion
