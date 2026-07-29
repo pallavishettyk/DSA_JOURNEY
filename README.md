@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1920-build-array-from-permutation) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2235-add-two-integers) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
