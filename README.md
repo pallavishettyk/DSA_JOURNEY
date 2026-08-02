@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
