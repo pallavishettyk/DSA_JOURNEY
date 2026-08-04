@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/2094-finding-3-digit-even-numbers) |
@@ -106,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
