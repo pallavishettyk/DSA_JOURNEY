@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0169-majority-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pallavishettyk/DSA_JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
